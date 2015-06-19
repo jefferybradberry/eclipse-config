@@ -1,0 +1,11 @@
+file_export_version=3.0
+/instance/org.eclipse.ui/ENABLE_ANIMATIONS=true
+/instance/org.eclipse.ui/SHOW_MEMORY_MONITOR=true
+/instance/org.eclipse.ui.editors/lineNumberRuler=true
+/instance/org.eclipse.ui.editors/printMargin=true
+/instance/org.eclipse.ui.editors/showCarriageReturn=false
+/instance/org.eclipse.ui.editors/showLineFeed=false
+/instance/org.eclipse.ui.editors/showWhitespaceCharacters=true
+/instance/org.eclipse.ui.editors/textDragAndDropEnabled=false
+/instance/org.eclipse.ui.workbench/OPEN_PERSPECTIVE_MODE=2
+/instance/org.eclipse.ui.workbench/RUN_IN_BACKGROUND=true
