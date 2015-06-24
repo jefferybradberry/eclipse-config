@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmarks>
+<bookmarks>
+	<site url="http://download.eclipse.org/releases/mars" selected="true"
+		name="Mars" />
+	<site url="http://download.eclipse.org/mylyn/releases/mars"
+		selected="true" name="Mylyn for Eclipse Mars" />
+	<site url="http://download.eclipse.org/eclipse/updates/4.5"
+		selected="true" name="The Eclipse Project Updates" />
+	<site url="http://download.eclipse.org/webtools/repository/mars"
+		selected="true" name="The Eclipse Web Tools Platform (WTP) software repository" />
+	<site url="http://download.eclipse.org/releases/mars/201506241002"
+		selected="true" name="" />
+</bookmarks>
