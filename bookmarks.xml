@@ -4,4 +4,6 @@
 	<site url="http://aws.amazon.com/eclipse" selected="true" name="AWS" />
 	<site url="http://download.eclipse.org/egit/updates" selected="true"
 		name="EGit" />
+	<site url="http://download.eclipse.org/linuxtools/update"
+		selected="true" name="Linux Tools" />
 </bookmarks>
