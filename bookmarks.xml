@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmarks>
 <bookmarks>
 	<site url="http://aws.amazon.com/eclipse" selected="true" name="AWS" />
 	<site url="http://download.eclipse.org/egit/updates" selected="true"
 		name="EGit" />
-	<site url="http://download.eclipse.org/technology/m2e/releases"
-		selected="true" name="M2Eclipse" />
 </bookmarks>
