@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE bookmarks>
 <bookmarks>
-	<site url="http://aws.amazon.com/eclipse" selected="true" name="AWS" />
-	<site url="http://download.eclipse.org/egit/updates" selected="true"
+	<site url="http://aws.amazon.com/eclipse" selected="false" name="AWS" />
+	<site url="http://download.eclipse.org/egit/updates" selected="false"
 		name="EGit" />
 	<site url="http://download.eclipse.org/linuxtools/update"
-		selected="true" name="Linux Tools" />
+		selected="false" name="Linux Tools" />
 	<site
 		url="http://download.oracle.com/otn_software/oepe/12.1.3.6/luna/repository/"
-		selected="true" name="OEPE 12.1.3.6 (Luna)" />
+		selected="false" name="OEPE 12.1.3.6 (Luna)" />
 	<site
 		url="http://download.oracle.com/otn_software/oepe/12.1.3.6/mars/repository/"
-		selected="true" name="OEPE 12.1.3.6 (Mars)" />
+		selected="false" name="OEPE 12.1.3.6 (Mars)" />
 </bookmarks>
