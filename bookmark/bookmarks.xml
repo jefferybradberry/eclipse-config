@@ -4,6 +4,12 @@
 	<site url="http://aws.amazon.com/eclipse" selected="false" name="AWS" />
 	<site url="http://download.eclipse.org/egit/updates" selected="false"
 		name="EGit" />
+	<site url="http://download.jboss.org/jbosstools/updates/stable/luna/"
+		selected="false" name="JBoss Tools (Luna)" />
+	<site url="http://download.jboss.org/jbosstools/updates/stable/mars/"
+		selected="false" name="JBoss Tools (Mars)" />
+	<site url="http://download.jboss.org/jbosstools/mars/development/updates/"
+		selected="false" name="JBoss Tools (Mars) (Development)" />
 	<site url="http://download.eclipse.org/linuxtools/update"
 		selected="false" name="Linux Tools" />
 	<site
