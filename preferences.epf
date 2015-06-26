@@ -7,5 +7,6 @@ file_export_version=3.0
 /instance/org.eclipse.ui.editors/showLineFeed=false
 /instance/org.eclipse.ui.editors/showWhitespaceCharacters=true
 /instance/org.eclipse.ui.editors/textDragAndDropEnabled=false
+/instance/org.eclipse.ui.editors/whitespaceCharacterAlphaValue=64
 /instance/org.eclipse.ui.workbench/OPEN_PERSPECTIVE_MODE=2
 /instance/org.eclipse.ui.workbench/RUN_IN_BACKGROUND=true
