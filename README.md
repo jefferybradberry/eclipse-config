@@ -2,4 +2,4 @@
 
 ## Summary
 
-These files are available to import into Ecilpse.
+These files are available to import into Eclipse.
