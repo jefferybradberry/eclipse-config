@@ -1,5 +1,8 @@
 file_export_version=3.0
 /instance/org.eclipse.core.resources/refresh.enabled=true
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadSources=true
+/instance/org.eclipse.m2e.core/eclipse.m2.updateIndexes=true
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadJavadoc=true
 /instance/org.eclipse.ui/ENABLE_ANIMATIONS=true
 /instance/org.eclipse.ui/SHOW_MEMORY_MONITOR=true
 /instance/org.eclipse.ui.editors/lineNumberRuler=true
