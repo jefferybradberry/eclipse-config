@@ -1,5 +1,6 @@
 file_export_version=3.0
 /instance/org.eclipse.core.resources/refresh.enabled=true
+/instance/org.eclipse.m2e.core/eclipse.m2.defaultPomEditorPage=true
 /instance/org.eclipse.m2e.core/eclipse.m2.downloadSources=true
 /instance/org.eclipse.m2e.core/eclipse.m2.updateIndexes=true
 /instance/org.eclipse.m2e.core/eclipse.m2.downloadJavadoc=true
