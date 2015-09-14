@@ -2,6 +2,8 @@
 <!DOCTYPE bookmarks>
 <bookmarks>
 	<site url="http://aws.amazon.com/eclipse" selected="false" name="AWS" />
+	<site url="http://download.eclipse.org/birt/update-site/4.5/"
+		selected="false" name="BIRT 4.5" />
 	<site url="http://download.eclipse.org/egit/updates" selected="false"
 		name="EGit" />
 	<site url="http://download.jboss.org/jbosstools/updates/stable/luna/"
