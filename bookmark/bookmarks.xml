@@ -24,4 +24,6 @@
 	<site
 		url="http://download.eclipse.org/technology/subversive/3.0/update-site/"
 		selected="false" name="Subversive 3.0" />
+	<site url="http://download.eclipse.org/tm/updates/4.0" selected="false"
+		name="TM 4.0" />
 </bookmarks>
