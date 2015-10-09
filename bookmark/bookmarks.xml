@@ -8,8 +8,6 @@
 		name="EGit" />
 	<site url="http://download.jboss.org/jbosstools/updates/stable/mars/"
 		selected="false" name="JBoss Tools (Mars)" />
-	<site url="http://download.jboss.org/jbosstools/mars/development/updates/"
-		selected="false" name="JBoss Tools (Mars) (Development)" />
 	<site url="http://download.eclipse.org/linuxtools/update"
 		selected="false" name="Linux Tools" />
 	<site url="http://download.eclipse.org/m2e-wtp/releases/mars/"
