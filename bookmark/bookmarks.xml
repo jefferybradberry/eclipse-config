@@ -19,6 +19,9 @@
 		selected="false" name="OEPE 12.1.3.8.1 (Mars)" />
 	<site url="http://pydev.org/updates" selected="false" name="PyDev" />
 	<site
+		url="http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site"
+		selected="false" name="Scala 2.11 (Luna, Mars)" />
+	<site
 		url="http://download.eclipse.org/technology/subversive/3.0/update-site/"
 		selected="false" name="Subversive 3.0" />
 	<site url="http://download.eclipse.org/tm/updates/4.0" selected="false"
